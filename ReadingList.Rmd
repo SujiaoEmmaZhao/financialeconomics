@@ -1,0 +1,116 @@
+---
+title: "**Reading List**"
+subtitle: "**2ECON07** *Financial Economics*"
+author: "Sujiao (Emma) ZHAO"
+institute: "Banco de Portugal"
+date: "2021/02/16 (updated: `r Sys.Date()`)"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Reading List
+
+1) Portfolio Selection, Harry Markowitz,Volume 7, Issue 1, March 1952.
+
+2) Capital Asset Prices: A Theory Of Market Equilibrium Under Conditions Of Risk, William F. Sharpe, Volume 19, Issue 3, September 1964.
+
+3) Efficient Capital Markets: Review Of Theory And Empirical Work, Eugene F. Fama, Volume 25, Issue 2, May 1970.
+
+4) The Cross-Section Of Expected Stock Returns, Eugene F. Fama, Kenneth R. French, Volume 47, Issue 2, June 1992.
+
+5) Counterspeculation, Auctions, And Competitive, Sealed Tenders, William Vickrey, Volume 16, Issue 1, March 1961.
+
+6) A Survey Of Corporate Governance, Andrei Shleifer, Robert W. Vishny, Volume 52, Issue 2, June 1997.
+
+7) Legal Determinants Of External Finance, Rafael La Porta, Florencio Lopez-De-Silanes, Andrei Shleifer, Robert W. Vishny, Volume 52, Issue 3, July 1997.
+
+8) Corporate Ownership Around The World, Rafael La Porta, Florencio Lopez-De-Silanes, Andrei Shleifer, Volume 54, Issue 2, April 1999.
+
+9) On the Pricing Of Corporate Debt: The Risk Structure Of Interest Rates, Robert C. Merton, Volume 29, Issue 2, May 1974.
+
+10) Financial Ratios, Discriminant Analysis And Prediction Of Corporate Bankruptcy, Edward I. Altman, Volume 23, Issue 4, September 1968.
+
+11) The Modern Industrial Revolution, Exit, And The Failure Of Internal Control-Systems, Michael C. Jensen, Volume 48, Issue 3,July 1993.
+
+12) On Persistence In Mutual Fund Performance, Mark M. Carhart, Volume 52, Issue 1, March 1997.
+
+13) On The Relation Between The Expected Value And The Volatility Of The Nominal Excess Return On Stocks, Lawrence R. Glosten, Ravi Jagannathan, David E. Runkle, Volume 48, Issue 5, December 1993.
+
+14) Returns To Buying Winners And Selling Losers: Implications For Stock Market Efficiency, Narasimhan Jegadeesh, Sheridan Titman, Volume 48, Issue 1, March 1993.
+
+15) Informational Asymmetries, Financial Structure, And Financial Intermediation, Hayne E. Leland, David H. Pyle, Volume 32, Issue 2, May 1977.
+
+16) The Pricing Of Options On Assets With Stochastic Volatilities, John Hull, Alan White, Volume 42, Issue 2, June 1987.
+
+17) Efficient Capital Markets: II, Eugene F. Fama, Volume 46, Issue 5, December 1991.
+
+18) Does The Stock Market Overreact?, Werner F. M. De Bondt, Richard Thaler, Volume 40, Issue 3, July 1985.
+
+19) Multifactor Explanations Of Asset Pricing Anomalies, Eugene F. Fama, Kenneth R. French, Volume 51, Issue 1, March 1996.
+
+20) The Capital Structure Puzzle, Stewart C. Myers, Volume 39, Issue 3, July 1984.
+
+21) The Performance Of Mutual Funds In Period 1945-1964, Michael C. Jensen, Volume 23, Issue 2, May 1968.
+
+22) Debt And Taxes, Merton H. Miller, Volume 32, Issue 2, May 1977.
+
+23) What Do We Know About Capital Structure? Some Evidence From International Data, Raghuram G. Rajan, Luigi Zingales, Volume 50, Issue 5, December 1995.
+
+24) The Benefits Of Lending Relationships: Evidence From Small Business Data, Mitchell A. Petersen, Raghuram G. Rajan, Volume 49, Issue 1, March 1994.
+
+25) Measuring And Testing The Impact Of News On Volatility, Robert F. Engle, Victor K. Ng, Volume 48, Issue 5, December 1993.
+
+26) Investor Psychology And Security Market Under- And Overreactions, Kent Daniel, David Hirshleifer, Avanidhar Subrahmanyam, Volume 53, Issue 6, December 1998.
+
+27) Contrarian Investment, Extrapolation, And Risk, Josef Lakonishok, Andrei Shleifer, Robert W. Vishny, Volume 49, Issue 5, December 1994.
+
+28) A Simple Model Of Capital Market Equilibrium With Incomplete Information, Robert C. Merton, Volume 42, Issue 3, July 1987.
+
+29) Insiders And Outsiders: The Choice Between Informed And Arms-Length Debt, Raghuram G. Rajan, Volume 47, Issue 4, September 1992.
+
+30) Why Does Stock Market Volatility Change Over Time?, G. William Schwert, Volume 44, Issue 5, September 1989.
+
+31) The Determinants Of Capital Structure Choice, Sheridan Titman, Roberto Wessels, Volume 43, Issue 1, March 1988.
+
+32) Inferring Trade Direction From Intraday Data, Charles M.C. Lee, Mark J. Ready, Volume 46, Issue 2, June 1991.
+
+33) The New Issues Puzzle, Tim Loughran, Jay R. Ritter, Volume 50, Issue 1, March 1995.
+
+34) The Limits Of Arbitrage, Andrei Shleifer, Robert W. Vishny, Volume 52, Issue 1, March 1997.
+
+35) Noise, Fischer Black, Volume 41, Issue 3, July 1986.
+
+36) Investor Protection And Corporate Valuation, Rafael La Porta, Florencio Lopez-De-Silanes, Andrei Shleifer, Robert Vishny, Volume 57. Issue 3, June 2002.
+
+37) The Theory Of Capital Structure, Milton Harris, Artur Raviv, Volume 46, Issue 1, March 1991.
+
+38) The Long-Run Performance Of Initial Public Offerings, Jay R. Ritter, Volume 46, Issue 1, March 1991.
+
+39) Initial Public Offerings And Underwriter Reputation, Richard Carter, Steven Manaster, Volume 45, Issue 4, September 1990.
+
+40) Dividend Policy Under Asymmetric Information, Merton H. Miller, Kevin Rock, Volume 40, Issue 4, September 1985.
+
+41) A Simple Implicit Measure Of The Effective Bid-Ask Spread In An Efficient Market, Richard Roll, Volume 39, Issue 4, September 1984.
+
+42) Empirical Performance Of Alternative Option Pricing Models, Gurdip Bakshi, Charles Cao, Zhiwu Chen, Volume 52, Issue 5, December 1997.
+
+43) Compensation And Incentives: Practice vs. Theory, George P. Baker, Michael C. Jensen, Kevin J. Murphy, Volume 43, Issue 3, July 1988.
+
+44) Are Investors Reluctant To Realize Their Losses?, Terrance Odean, Volume 53, Issue 5, October 1998.
+
+45) Size And Book-To-Market Factors In Earnings And Returns, Eugene F. Fama, Kenneth R. French, Volume 50, Issue 1, March 1995.
+
+46) Security Prices, Risk, And Maximal Gains From Diversification, John Lintner, Volume 20, Issue 4, December 1965.
+
+47) An Empirical Comparison Of Alternative Models Of The Short-Term Interest-Rate, K. C. Chan, G. Andrew Karolyi, Francis A. Longstaff, Anthony B. Sanders, Volume 47, Issue 3, July 1992.
+
+48) Risk Management Coordinating Corporate Investment And Financing Policies, Kenneth A. Froot, David S. Scharfstein, Jeremy C. Stein, Volume 48, Issue 5, December 1993.
+
+49) Disentangling The Incentive And Entrenchment Effects Of Large Shareholdings, Stijn Claessens, Simeon Djankov, Joseph P. H. Fan, Larry H. P. Lang, Volume 57, Issue 6, December 2002.
+
+50) Valuing Corporate Securities: Some Effects Of Bond Indenture Provisions, Fischer Black, John C. Cox, Volume 31, Issue 2, May 1976.
+
+
