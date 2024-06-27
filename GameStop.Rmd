@@ -1,0 +1,76 @@
+---
+title: "**Financial Economics**"
+subtitle: "GameStop Case Study"
+author: "Sujiao (Emma) ZHAO"
+date: "2021/03/09 (updated: `r Sys.Date()`)"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+setwd("C:/Financial Economics/LectureNotes/")
+```
+
+
+## Case Study: [GameStop](https://finance.yahoo.com/quote/GME/)
+
+- July 28, 2020: Keith Gill, an American financial analyst, started posting YouTube videos on GameStop, saying he sees value in the heavily shorted stock he had been investing in since June 2019. He posted on the Reddit forum [WallStreetBets](https://www.reddit.com/r/wallstreetbets/)
+
+
+
+<iframe width="800" height="450" src="https://www.youtube.com/embed/GZTr1-Gp74U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class="navy" align="center">
+July 28, 2020
+</div>
+
+- Dec 8, 2020: **GameStop shares tank after the company misses Wall Street estimates for quarterly revenue as pandemic-led store closures and intense competition from digital-game sellers hit sales.**
+
+- Jan 11, 2021: **GameStop appoints 3 new directors to its board, including co-founder of e-commerce giant Chewy**
+
+- Jan 12, 2021: Short interest at $ 70.9 mln shares, down from $ 71.2 mln on Jan 8, per S3 Partners. Notional value of short bets rose to $ 1.4 bln from $ 1.3 bln, reflecting the rising stock price
+
+- Jan 13, 2021: **Stock surges more than 50%.** GameStop shares rise 57%, followed by another 27% jump the next day to $ 39.90. Its median target price among analysts is $ 12.50.
+
+- Jan 19, 2021: **Short seller Citron Research takes aim. Tweets about GameStop, saying buyers at these levels are “the suckers at this poker game”** and stock “back to $20 fast.”
+
+- Jan 20: Citron Research delays negative report, says it does not want to go live with its report on the stock
+
+- Jan 22: Shares rise another 50%.
+
+- Jan 25: GameStop stock soars as much 144% then settles up 18% with retail traders storming in to buy more.
+
+- Jan 25: Hedge fund Melvin Capital Management receives $2.75 billion investment from Citadel, the Chicago-based hedge fund led by Ken Griffin, and billionaire investor Steven A. Cohen’s Point72 Asset Management, after losing on a series of short bets, including on GameStop. Griffin also founded Citadel Securities, one of several market making firms that pays to execute customer orders from Robinhood.
+
+- Jan 26: **Elon Musk tweets "Gamestonk!!"**, along with a link to Reddit's Wallstreetbets stock trading discussion group, where supporters refer to the Tesla CEO as "Papa Musk."
+
+- Jan 26: Shares surge 92.7%. Top securities regulator in Massachusetts reportedly says trading in GameStop suggests there is something “systemically wrong” with the options trading.
+
+- Jan 27: Trading volumes in U.S. cash equities and options hit all-time record levels at 24.5 billion shares traded and 57.1 million contracts traded.
+
+- Jan 27: **Major short sellers close -- at a significant loss.** GameStop hits a closing high of $347.51.
+
+MORE: [How Reddit users sent GameStop stock soaring, upending the market](https://abcnews.go.com/Business/reddit-users-gamestop-stock-soaring-upending-market/story?id=75513249)
+
+- Jan 28: **Robinhood, along with several other brokerages, restricts trading in GameStop and a handful of stocks** after the regulatory deposit requirements for settling the securities skyrocket. With buying restricted at many brokerages, but selling allowed, the stocks sell off.
+
+- Jan 28: The U.S. House Financial Services and Senate Banking committees says to hold a Feb. 18 hearing on the stock market following the trading restrictions.
+
+MORE: [SEC 'closely monitoring' price volatility of 'certain stocks' in wake of GameStop saga](https://abcnews.go.com/Business/sec-closely-monitoring-price-volatility-stocks-wake-gamestop/story?id=75564127)
+
+MORE: [Robinhood abruptly restricts transactions for GameStop stock](https://abcnews.go.com/Business/robinhood-abruptly-restricts-transactions-gamestop-stock/story?id=75537922)
+
+- Jan 29: **SEC weighs in, Robinhood begins easing trading restrictions on stocks caught up in the so-called Reddit rally**.
+
+*"will act to protect retail investors when the facts demonstrate abusive or manipulative trading activity that is prohibited by the federal securities laws."*
+
+- Feb 1: Robinhood raises 2.4 billion in capital after raising $1 billion the previous week.
+
+- Feb 2: U.S. Treasury Secretary Janet Yellen calls meeting of top financial regulators to discuss market volatility driven by retail trading in GameStop and other stocks.
+
+- Feb 4: Robinhood removes all trading curbs. The following day, GameStop hits a session high of 95 and closes up 19.20% at 63.77.
+
+- Feb 9: GameStop trading at around $40 a share.
+
+- Feb 18: U.S. House panel holds hearing titled: "Game Stopped? Who Wins and Loses When Short Sellers, Social Media, and Retail Investors Collide here."
+
